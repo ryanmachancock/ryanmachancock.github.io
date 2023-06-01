@@ -1,4 +1,4 @@
-Welcome to my personal, online portfolio!
+Welcome to my personal online portfolio!
 
 Feel free to view it in action at ryanmachancock.github.io
 
